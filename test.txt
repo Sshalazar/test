@@ -20,4 +20,4 @@ Servicio de transferencias estará disponible 24/7.
 
 
 
-CAMBIO
+CAMBIO para hacer un pull.
